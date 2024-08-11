@@ -11,7 +11,7 @@ namespace MovieReservation.Controllers
     public class moviebookingController : ControllerBase
     {
         /// <summary>
-        /// Log In user and Book Movie
+        /// This controller is used for user log In and Book Movie ticket.
         /// </summary>
 
         // Hard-coded list of movies
